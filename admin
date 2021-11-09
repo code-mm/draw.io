@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T11:19:20.900Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="WUeyTwqGCcTXo72HNW2f" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T11:19:51.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="wnZQmDRGnPEAKU4ILYio" version="15.6.8" type="github">
   <diagram id="kkELHp91AmwVNdvdWAzb" name="第 1 页">
     <mxGraphModel dx="1397" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,13 +34,13 @@
         <mxCell id="Ex4nzOKF9lCvdXAqtC-e-8" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="120" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ex4nzOKF9lCvdXAqtC-e-9" value="a" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="Ex4nzOKF9lCvdXAqtC-e-9" value="客户端1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-770" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ex4nzOKF9lCvdXAqtC-e-10" value="b" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="Ex4nzOKF9lCvdXAqtC-e-10" value="客户端2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-770" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ex4nzOKF9lCvdXAqtC-e-11" value="c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="Ex4nzOKF9lCvdXAqtC-e-11" value="客户端3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-770" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ex4nzOKF9lCvdXAqtC-e-13" value="广告开关" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;strokeWidth=2;perimeterSpacing=1;imageWidth=20;imageHeight=20;" vertex="1" parent="1">
