@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T10:54:02.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="BPQK2F4_hpTpbRPhn_bF" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T11:06:47.278Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="0Zy7BG5gC7I-iCJ0Jz--" version="15.6.8" type="github">
   <diagram id="kkELHp91AmwVNdvdWAzb" name="第 1 页">
-    <mxGraphModel dx="1426" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,21 @@
         </mxCell>
         <mxCell id="_w_XuRHoFFqBoFWCY3iR-7" value="数据配置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ex4nzOKF9lCvdXAqtC-e-2" value="聚合广告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="370" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ex4nzOKF9lCvdXAqtC-e-3" value="广告A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="430" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ex4nzOKF9lCvdXAqtC-e-5" value="广告C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="430" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ex4nzOKF9lCvdXAqtC-e-6" value="广告B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="430" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ex4nzOKF9lCvdXAqtC-e-7" value="广告C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry y="430" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
