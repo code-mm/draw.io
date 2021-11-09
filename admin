@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T08:15:56.317Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="jaQWd4WBE3VPjDRglDLR" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T10:54:02.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="BPQK2F4_hpTpbRPhn_bF" version="15.6.8" type="github">
   <diagram id="kkELHp91AmwVNdvdWAzb" name="第 1 页">
-    <mxGraphModel dx="1426" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_w_XuRHoFFqBoFWCY3iR-1" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_w_XuRHoFFqBoFWCY3iR-1" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="50" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_w_XuRHoFFqBoFWCY3iR-2" value="渠道A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_w_XuRHoFFqBoFWCY3iR-2" value="渠道A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_w_XuRHoFFqBoFWCY3iR-3" value="渠道B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_w_XuRHoFFqBoFWCY3iR-3" value="渠道B" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_w_XuRHoFFqBoFWCY3iR-4" value="开关配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_w_XuRHoFFqBoFWCY3iR-4" value="开关配置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_w_XuRHoFFqBoFWCY3iR-5" value="开关配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_w_XuRHoFFqBoFWCY3iR-5" value="开关配置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_w_XuRHoFFqBoFWCY3iR-6" value="数据配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_w_XuRHoFFqBoFWCY3iR-6" value="数据配置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_w_XuRHoFFqBoFWCY3iR-7" value="数据配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_w_XuRHoFFqBoFWCY3iR-7" value="数据配置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="260" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
